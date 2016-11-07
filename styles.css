@@ -60,7 +60,9 @@ h2 {
 }
 /*SECTION2*/
 .cities {
+	display: block;
 	width: 25%;
+	min-width: 200px;
 	float: left;
 	padding-bottom: 15px;
 	font-size: 15px;
