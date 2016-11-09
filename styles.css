@@ -74,8 +74,4 @@ span {
 	color: #ababab;
 	padding-left: 8px;
 }
-.cities-block:after {
-    content: "";
-    display: block;
-    clear: both;
-}
+
