@@ -74,4 +74,8 @@ span {
 	color: #ababab;
 	padding-left: 8px;
 }
-
+.clearfix::after {
+	content: "";
+	display: block;
+	clear: both;
+}
